@@ -15,7 +15,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations
 organizations:
 - name: Harvard University
-  url: ""
+  url: "https://www.harvard.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include age and representation, social welfare, and political institutions.
@@ -69,4 +69,4 @@ email: ""
 #- Visitors
 ---
 
-Charles McClean is a Postdoctoral Fellow in the Program on U.S.-Japan Relations at the Weatherhead Center for International Affairs at Harvard University.
+Charles McClean is a Postdoctoral Fellow in the [Program on U.S.-Japan Relations]("https://programs.wcfia.harvard.edu/us-japan") at the Weatherhead Center for International Affairs at Harvard University.
