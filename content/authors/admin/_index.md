@@ -35,7 +35,7 @@ education:
   - course: MA in Regional Studies, East Asia
     institution: Harvard University
     year: 2011
-  - course: BA in International Relations, Japanese
+  - course: BA in International Relations and Japanese
     institution: Tufts University
     year: 2008
 
