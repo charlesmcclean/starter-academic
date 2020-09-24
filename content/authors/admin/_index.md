@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Charles T. McClean
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow, Program on U.S.-Japan Relations
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Harvard University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
