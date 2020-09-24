@@ -3,7 +3,7 @@ title = "Follow Your Heart: Could Psychophysiology Be Associated with Political 
 
 # Date first published.
 #date = "2013-07-01"
-date = "2020"
+date = "2020-01-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Taylor N. Carlson", "Charles T. McClean", "Jaime E. Settle]
@@ -55,10 +55,10 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
-math = true
+#math = true
 
 # Does the content use source code highlighting?
-highlight = true
+#highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
