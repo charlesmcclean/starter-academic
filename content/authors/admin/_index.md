@@ -18,23 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include age and representation, social welfare, and political institutions.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Age and Representation
+- Comparative Politics
+- Elite Behavior
+- Political Institutions
+- Japan
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Political Science
+    institution: University of California, San Diego
+    year: 2020
+  - course: MA in Regional Studies, East Asia
+    institution: Harvard University
+    year: 2011
+  - course: BA in International Relations and Japanese
+    institution: Tufts University
     year: 2008
 
 # Social/Academic Networking
