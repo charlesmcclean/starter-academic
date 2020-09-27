@@ -22,6 +22,7 @@ bio: My research interests include age and representation, social welfare, and p
 
 interests:
 - Age and Representation
+- Social Welfare
 - Comparative Politics
 - Elite Behavior
 - Political Institutions
@@ -55,9 +56,9 @@ social:
   link: https://scholar.google.com/citations?user=FC2NUe8AAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/cmcclean_cv.pdf
+- icon: cv
+   icon_pack: ai
+   link: media/cmcclean_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
