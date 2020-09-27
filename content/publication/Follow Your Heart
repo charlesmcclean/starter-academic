@@ -20,12 +20,13 @@ authors = ["Taylor N. Carlson", "Charles T. McClean", "Jaime E. Settle"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+# publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+# publication_short = "In *ICA*"
+publication = "*Political Psychology*, 
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "Most Americans are sorted into social networks that are largely politically homogeneous. A large body of political science research has explored the behavioral implications of being embedded in a politically homogeneous or heterogeneous network, but substantially less attention has been given to explaining why some people find themselves in politically homogeneous or heterogeneous social networks. In this article, we explore the psychological and physiological underpinnings of political network homogeneity. We use social network data from an original survey of 129 undergraduates paired with lab experimental evidence that measures individuals' physiological reactivity to an anticipated political discussion. Using our original survey and a separate nationally representative survey, we find suggestive evidence that individuals who are more socially anxious are more likely to share partisanship with their social network ties. Moreover, we find that individuals who experienced a greater increase in heart rate when anticipating a political discussion were more likely to be in homogeneous discussion networks, but we do not find a relationship between electrodermal activity and network homogeneity. Aversion to psychological and physiological discomfort induced by political discussions could contribute to social polarization in the American public."
+# abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 #image_preview = ""
@@ -40,7 +41,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12594"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
